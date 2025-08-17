@@ -20,7 +20,7 @@ Siga estas instruções para baixar e executar o projeto em sua máquina local.
 
 ### 2. Clone o Repositório
 
-No seu terminal, use o seguinte comando para clonar o repositório do projeto (substitua `https://github.com/cadugr/agenda` pela URL real do seu repositório no GitHub):
+No seu terminal, use o seguinte comando para clonar o repositório do projeto:
 
 ```bash
 git clone https://github.com/cadugr/agenda
